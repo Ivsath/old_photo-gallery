@@ -63,3 +63,7 @@ images/**
 .config
 notes/**
 .vscode/**
+
+gin-bin
+main
+photo-gallery
